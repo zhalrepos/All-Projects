@@ -133,13 +133,13 @@ Looking for more amazing form designs? Check out Colorlib's extensive collection
         <a href="https://puikinsh.github.io/login-forms/forms/ai-assistant/">Live Demo</a> | <a href="forms/ai-assistant/">Source</a>
       </td>
       <td align="center">
-        <a href="https://github.com/zhalrepos/All-Projects/LoginPages/Cyber%20Neon/">
-          <img src="https://github.com/zhalrepos/All-Login-Forms/General%20Forms/assets/screenshots/neon-cyber.png" width="100%" alt="Neon Cyber">
+        <a href="https://zhalrepos.github.io/All-Projects/LoginPages/Cyber%20Neon/">
+          <img src="https://zhalrepos.github.io/All-Login-Forms/General%20Forms/assets/screenshots/neon-cyber.png" width="100%" alt="Neon Cyber">
         </a>
         <br>
         <b>Neon Cyber</b><br>
         <sub>Cyberpunk aesthetic</sub><br>
-        <a href="https://github.com/zhalrepos/All-Projects/tree/main/LoginPages/Cyber%20Neon">Live
+        <a href="https://zhalrepos.github.io/All-Projects/LoginPages/Cyber%20Neon/">Live
         Demo</a> | <a href="LoginPages/Cyber%20Neon/">Source</a>
       </td>
     </tr>
